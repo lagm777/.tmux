@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp .tmux.conf /root/
+#cp -r .tmux/dev /root/
