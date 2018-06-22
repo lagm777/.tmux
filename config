@@ -3,5 +3,5 @@
 cp .tmux.conf /root/
 cp -r .tmux/ /root/
 
-echo "alias mv="rsync -Prh --append --remove-sent-files"" >> /root/.bashrc
-echo "alias cp="rsync -Prh --append"" >> /root/.bashrc
+#echo "alias mv="rsync -Prh --append --remove-sent-files"" >> /root/.bashrc
+#echo "alias cp="rsync -Prh --append"" >> /root/.bashrc
