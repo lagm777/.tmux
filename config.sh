@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo dnf -y install powerline
 cd ~
 ln -s -f .tmux/.tmux.conf
 cp .tmux/.tmux.conf.local .
